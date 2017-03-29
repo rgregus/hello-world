@@ -1,2 +1,4 @@
 # hello-world
-learning to know github
+
+Hi all
+so here I am trying to learn something new.
